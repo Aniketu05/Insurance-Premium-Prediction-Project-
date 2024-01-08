@@ -1,5 +1,3 @@
-Certainly! Below is a summarized version that you can use for your GitHub README file:
-
 # Insurance Premium Prediction Project
 
 ## Overview
